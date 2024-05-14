@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+h1{
+  margin:0;
+}
+p{
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
